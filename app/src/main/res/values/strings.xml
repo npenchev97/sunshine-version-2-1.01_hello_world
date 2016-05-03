@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sunshine</string>
+    <string name="action_settings">Settings</string>
+    <string name="day_fragment">Hoy</string>
+    <string name="city_fragment">Ciudad de México</string>
+    <string name="clima_fragment">12°C</string>
+    <string name="day_fragment_land">Hoy 12°C</string>
+    <string name="clima_item">Soleado, February 13, 16°C</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+
+</resources>
